@@ -1,2 +1,2 @@
 # buildwithpacker
-Testing packer images with Azure
+Testing packer images with AWS
